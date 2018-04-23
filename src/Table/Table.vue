@@ -62,7 +62,7 @@
 </template>
 
 <script>
-  import imgUrls from '../../static/loading.gif';
+  import imgUrls from './load.gif';
   import TableHeader from './TableHeader';
   import TableBody from './TableBody';
   import TableFooter from './TableFooter';
