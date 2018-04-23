@@ -10,11 +10,11 @@
     "vue-jsx"
   ],
   "author": "GaoQi <taki.gaoqi@outlook.com>",
-  "homepage": "https://github.com/xiaohongjin/truegrid-kq",
-  "bugs": "https://github.com/xiaohongjin/truegrid-kq/issues",
+  "homepage": "https://github.com/xiaohongjin/treegrid-kq",
+  "bugs": "https://github.com/xiaohongjin/treegrid-kq/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaohongjin/truegrid-kq"
+    "url": "https://github.com/xiaohongjin/treegrid-kq"
   },
   "main": "lib/vue-table-with-tree-grid.js",
   "files": [
